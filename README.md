@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Hasanur  
+# 👋 Hey there, I'm Hasanur M
 
 🚀 **18-year-old self-taught Full Stack Developer** with **4+ years of professional experience** building scalable, high-performance web and cross-platform applications.  
 I’m passionate about clean code, security, and turning ambitious ideas into reality.
