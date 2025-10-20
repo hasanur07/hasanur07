@@ -61,7 +61,7 @@ I’m passionate about clean code, security, and turning ambitious ideas into re
 
 ### 📫 Connect With Me
 - 🌐 **Portfolio:** [hasanur.doclet.app](https://hasanur.doclet.app)  
-- 📧 **Email:** [your.email@example.com](mailto:hasanur@doclet.app)  
+- 📧 **Email:** [hasanur@doclet.apl](mailto:hasanur@doclet.app)  
 - 💼 **LinkedIn:** [linkedin.com/in/mrhasanur](#)  
 
 
