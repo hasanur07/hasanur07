@@ -61,7 +61,7 @@ I’m passionate about clean code, security, and turning ambitious ideas into re
 
 ### 📫 Connect With Me
 - 🌐 **Portfolio:** [hasanur.in](https://hasanur.in)  
-- 📧 **Email:** [hello#hasanur.in](mailto:hello@hasanur.in)  
+- 📧 **Email:** [hello@hasanur.in](mailto:hello@hasanur.in)  
 - 💼 **LinkedIn:** [@hasanurm](https://linkedin/in/hasanurm)  
 
 
