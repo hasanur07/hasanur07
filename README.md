@@ -37,7 +37,7 @@ I’m passionate about clean code, security, and turning ambitious ideas into re
 > Built using **Next.js**, **TypeScript**, **Node.js**, **MongoDB**, and **Firebase**.  
 > 🌐 Secure. Private. Decentralized-ready.
 
-#### 🌍 [Portfolio – hasanur.doclet.app](https://hasanur.doclet.app)
+#### 🌍 [Portfolio – hasanur.in](https://hasanur.in)
 > My personal portfolio — showcasing my projects, skills, and digital footprint.  
 > Built with **Next.js** + **Tailwind CSS** and deployed on **Vercel**.
 
@@ -60,9 +60,9 @@ I’m passionate about clean code, security, and turning ambitious ideas into re
 ---
 
 ### 📫 Connect With Me
-- 🌐 **Portfolio:** [hasanur.doclet.app](https://hasanur.doclet.app)  
-- 📧 **Email:** [hasanur@doclet.app](mailto:hasanur@doclet.app)  
-- 💼 **LinkedIn:** [linkedin.com/in/mrhasanur](#)  
+- 🌐 **Portfolio:** [hasanur.in](https://hasanur.in)  
+- 📧 **Email:** [hello#hasanur.in](mailto:hello@hasanur.in)  
+- 💼 **LinkedIn:** [@hasanurm](https://linkedin/in/hasanurm)  
 
 
 
@@ -71,6 +71,7 @@ I’m passionate about clean code, security, and turning ambitious ideas into re
 
 ### ⚡ Fun Fact
 > I built my first full-stack project before I could drive — and I’ve been coding full-time ever since.
+> Still can't drive.
 
 ---
 
